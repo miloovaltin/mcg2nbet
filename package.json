@@ -1,16 +1,16 @@
 {
-"name": "mcg2nbet",
-"theme": "mcg2n bet",
-"version": "9.3.9",
-"description": "mcg2n bet ทางเข้าหลักเว็บบาคาร่าเว็บตรง คนเล่นเยอะ รับเงินเครดิตฟรี",
-"keywords": [
-"mcg2n bet",
-"mcg2n bet เครดิตฟรี",
-"mcg2n bet ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/mcg2nbet",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "mcg2nbet",
+  "theme": "mcg2n bet",
+  "version": "9.4.0",
+  "description": "mcg2n bet ทางเข้าหลักเว็บบาคาร่าเว็บตรง คนเล่นเยอะ รับเงินเครดิตฟรี",
+  "keywords": [
+    "mcg2n bet",
+    "mcg2n bet เครดิตฟรี",
+    "mcg2n bet ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/mcg2nbet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
